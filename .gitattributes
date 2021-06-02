@@ -1,0 +1,3 @@
+*.rev               diff=sopsdiffer
+*.enc.output        diff=sopsdiffer
+.gitattributes      !diff
